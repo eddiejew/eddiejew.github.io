@@ -282,10 +282,10 @@ h3 a:visited{
 }
 
 /*Contact*/
-.type-wrap span{
-  font-size: 3rem;
+.type-wrap p{
+  font-size: 2rem;
   color: black;
-  font-weight: 400;
+  font-weight: 300;
 }
 .type-wrap{
   text-align: center;

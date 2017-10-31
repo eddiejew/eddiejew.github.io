@@ -87,9 +87,9 @@ $(function(){
     sr.reveal('#iconOne', {reset:true, duration: 500, delay: 300, scale: 1.5, mobile: true});
     sr.reveal('#iconTwo', {reset:true, duration: 500, delay: 450, scale: 1.5, mobile: true});
     sr.reveal('#iconThree', {reset:true, duration: 500, delay: 600, scale: 1.5, mobile: true});
-    sr.reveal('#iconFour', {reset:true, duration: 500, delay: 750, scale: 1.5, mobile: true});
-    sr.reveal('#iconFive', {reset:true, duration: 500, delay: 900, scale: 1.5, mobile: true});
-    sr.reveal('#iconSix', {reset:true, duration: 500, delay: 1050, scale: 1.5, mobile: true});
+    sr.reveal('#iconFour', {reset:true, duration: 500, delay: 300, scale: 1.5, mobile: true});
+    sr.reveal('#iconFive', {reset:true, duration: 500, delay: 450, scale: 1.5, mobile: true});
+    sr.reveal('#iconSix', {reset:true, duration: 500, delay: 600, scale: 1.5, mobile: true});
     sr.reveal('#iconRes', {reset:true, duration: 500, delay: 300, scale: 1.5, mobile: true});
     sr.reveal('#iconLinkedIn', {reset:true, duration: 500, delay: 450, scale: 1.5, mobile: true});
     sr.reveal('#iconGitHub', {reset:true, duration: 500, delay: 600, scale: 1.5, mobile: true});
@@ -99,6 +99,10 @@ $(function(){
     sr.reveal('.school', {reset:true, duration: 500, delay: 300, scale: 0.9, mobile: true});
     sr.reveal('.work', {reset:true, duration: 500, delay: 300, scale: 0.9, mobile: true});
     sr.reveal('.btn-circle', {reset:true, duration: 500, delay: 300, scale: 2, mobile: true});
+    sr.reveal('#talkDigital', {reset:true, duration: 500, delay: 600, scale: 1.5, mobile: true});
+    sr.reveal('#talkBusiness', {reset:true, duration: 500, delay: 1500, scale: 1.5, mobile: true});
+    sr.reveal('#talkAudience', {reset:true, duration: 500, delay: 2400, scale: 1.5, mobile: true});
+    sr.reveal('#workTogether', {reset:true, duration: 500, delay: 3300, scale: 1.5, mobile: true});
 
 
     $('.navbar-collapse a').on('click',function(){
