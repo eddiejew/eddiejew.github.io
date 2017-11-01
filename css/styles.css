@@ -467,6 +467,9 @@ input:-webkit-autofill{
 }
 /*Mobile*/
 @media (max-width: 320px) {
+  body{
+    background-color: #222;
+  }
   #home .row{
     padding: 15% 0;
     margin-top: 17%;
