@@ -99,10 +99,11 @@ $(function(){
     sr.reveal('.school', {reset:true, duration: 500, delay: 300, scale: 0.9, mobile: true});
     sr.reveal('.work', {reset:true, duration: 500, delay: 300, scale: 0.9, mobile: true});
     sr.reveal('.btn-circle', {reset:true, duration: 500, delay: 300, scale: 2, mobile: true});
-    sr.reveal('#talkDigital', {reset:true, duration: 500, delay: 600, scale: 1.5, mobile: true});
-    sr.reveal('#talkBusiness', {reset:true, duration: 500, delay: 1500, scale: 1.5, mobile: true});
-    sr.reveal('#talkAudience', {reset:true, duration: 500, delay: 2400, scale: 1.5, mobile: true});
-    sr.reveal('#workTogether', {reset:true, duration: 500, delay: 3300, scale: 1.5, mobile: true});
+    sr.reveal('#talkDigital', {reset:true, duration: 500, delay: 300, scale: 1.5, mobile: true});
+    sr.reveal('#talkBusiness', {reset:true, duration: 500, delay: 1200, scale: 1.5, mobile: true});
+    sr.reveal('#talkAudience', {reset:true, duration: 500, delay: 2100, scale: 1.5, mobile: true});
+    sr.reveal('#workTogether', {reset:true, duration: 500, delay: 3000, scale: 1.5, mobile: true});
+    sr.reveal('.well', {reset:true, duration: 500, delay: 3900, scale: 1.5, mobile: true});
 
 
     $('.navbar-collapse a').on('click',function(){
