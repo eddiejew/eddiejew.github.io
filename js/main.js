@@ -103,7 +103,6 @@ $(function(){
     sr.reveal('#talkBusiness', {reset:true, duration: 500, delay: 1200, scale: 1.5, mobile: true});
     sr.reveal('#talkAudience', {reset:true, duration: 500, delay: 2100, scale: 1.5, mobile: true});
     sr.reveal('#workTogether', {reset:true, duration: 500, delay: 3000, scale: 1.5, mobile: true});
-    sr.reveal('.well', {reset:true, duration: 500, delay: 3900, scale: 1.5, mobile: true});
 
 
     $('.navbar-collapse a').on('click',function(){
