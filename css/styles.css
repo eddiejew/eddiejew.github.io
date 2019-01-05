@@ -68,6 +68,10 @@
   opacity: .6;
 }
 
+.margin{
+  margin: 2px;
+}
+
 /*.bioBox{
   background-color: #DFDDD8;
   box-shadow: 0 0 1px 1px rgba(255,255,255,.6);
